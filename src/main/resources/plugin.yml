@@ -1,0 +1,10 @@
+name: MarciPlugin
+version: '${project.version}'
+main: minegamers.hu.marciplugin.Main
+api-version: '1.20'
+description: LifeSteal plugin :)
+author: ["fmrc", "41cs"]
+commands:
+  ls:
+    usage: /ls <args>
+    description: ez egy kiraly command
